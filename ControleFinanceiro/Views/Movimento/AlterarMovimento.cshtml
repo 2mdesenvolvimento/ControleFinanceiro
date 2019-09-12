@@ -1,0 +1,49 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+@using (Html.BeginForm("Gravar", "Movimento", FormMethod.Post))
+{
+    <input type="hidden" name="cod" value=""/>
+    <div class="form-group">
+        <label>Categoria</label>
+        <select class="form-control" name="categoria_movimento">
+            <option value="">Selecione</option>
+            <option value="1">Entrada</option>
+            <option value="2">Saida</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Data Movimento</label>
+        <input type="date" class="form-control" placeholder="Digite aqui..." name="data_movimento" />
+    </div>
+    <div class="form-group">
+        <label>Valor Movimento</label>
+        <input class="form-control" placeholder="Digite aqui..." name="valor_movimento" />
+    </div>
+    <div class="form-group">
+        <label>Tipo do Movimento</label>
+        <select class="form-control" name="tipo_movimento">
+            <option value="">Selecione</option>
+            <option value="1">Entrada</option>
+            <option value="2">Saida</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Empresa</label>
+        <select class="form-control" name="empresa_movimento">
+            <option value="">Selecione</option>
+            <option value="1">Entrada</option>
+            <option value="2">Saida</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Observação</label>
+        <textarea class="form-control" placeholder="Digite aqui..." name="obs_movimento"></textarea>
+    </div>
+    <button type="submit" class="btn btn-success">Salvar</button>
+}
+
+
+

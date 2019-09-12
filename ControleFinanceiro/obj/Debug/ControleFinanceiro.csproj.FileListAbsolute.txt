@@ -1,0 +1,156 @@
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\ControleFinanceiro.dll.config
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\ControleFinanceiro.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\ControleFinanceiro.pdb
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csc.exe
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csc.exe.config
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csc.rsp
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csi.exe
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csi.exe.config
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csi.rsp
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.AppContext.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Collections.Immutable.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Console.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.Compression.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.FileSystem.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.Pipes.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Reflection.Metadata.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.AccessControl.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Claims.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.ValueTuple.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Xml.XPath.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\vbc.exe
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\vbc.exe.config
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\vbc.rsp
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\VBCSCompiler.exe
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\roslyn\VBCSCompiler.exe.config
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\Microsoft.Web.Infrastructure.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Helpers.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Mvc.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Razor.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.Deployment.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.Razor.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Razor.xml
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.xml
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.Deployment.xml
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.Razor.xml
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Helpers.xml
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Mvc.xml
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Razor.resources.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Webpages.resources.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.csprojAssemblyReference.cache
+D:\Curso\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.csproj.CoreCompileInputs.cache
+D:\Curso\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.csproj.CopyComplete
+D:\Curso\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.dll
+D:\Curso\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\ControleFinanceiro.dll.config
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\ControleFinanceiro.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\ControleFinanceiro.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csc.exe
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csc.exe.config
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csc.rsp
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csi.exe
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csi.exe.config
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\csi.rsp
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.AppContext.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Collections.Immutable.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Console.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.Compression.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.FileSystem.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.IO.Pipes.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Reflection.Metadata.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.AccessControl.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Claims.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.ValueTuple.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Xml.XPath.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\vbc.exe
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\vbc.exe.config
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\vbc.rsp
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\VBCSCompiler.exe
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\roslyn\VBCSCompiler.exe.config
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\DAO.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\Microsoft.Web.Infrastructure.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Helpers.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Mvc.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Razor.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.Deployment.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.Razor.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\VO.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\MySql.Data.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\DAO.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\VO.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Razor.xml
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.xml
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.Deployment.xml
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Webpages.Razor.xml
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Helpers.xml
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\System.Web.Mvc.xml
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Razor.resources.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Webpages.resources.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.csprojAssemblyReference.cache
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.csproj.CoreCompileInputs.cache
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.csproj.CopyComplete
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\ControleFinanceiro\bin\MySql.Data.xml

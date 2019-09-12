@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro", "ControleFinanceiro\ControleFinanceiro.csproj", "{9D1E5146-5A96-4416-A9B7-FD024AFB1626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VO", "VO\VO.csproj", "{7B063E24-F4D4-430A-9A6E-1361A34CCC66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{B7EA8038-0995-4E69-80AF-48FB2035D23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D1E5146-5A96-4416-A9B7-FD024AFB1626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1E5146-5A96-4416-A9B7-FD024AFB1626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1E5146-5A96-4416-A9B7-FD024AFB1626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1E5146-5A96-4416-A9B7-FD024AFB1626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B063E24-F4D4-430A-9A6E-1361A34CCC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B063E24-F4D4-430A-9A6E-1361A34CCC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B063E24-F4D4-430A-9A6E-1361A34CCC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B063E24-F4D4-430A-9A6E-1361A34CCC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EA8038-0995-4E69-80AF-48FB2035D23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EA8038-0995-4E69-80AF-48FB2035D23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EA8038-0995-4E69-80AF-48FB2035D23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EA8038-0995-4E69-80AF-48FB2035D23B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D0A356F-4562-4A5C-A564-6CAB20856655}
+	EndGlobalSection
+EndGlobal

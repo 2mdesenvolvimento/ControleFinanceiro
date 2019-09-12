@@ -1,0 +1,52 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+<!-- /. ROW  -->
+<hr />
+
+<div class="row">
+    <div class="col-md-12">
+        <!-- Advanced Tables -->
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Empresas Cadastradas
+            </div>
+            <div class="panel-body">
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+                        <thead>
+                            <tr>
+                                <th>Nome da Empresa</th>
+                                <th>Endereço</th>
+                                <th>Telefone</th>
+                                <th>Ação</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                foreach (var item in ViewBag.ListaEmpresa)
+                                {
+                                    <tr class="odd gradeX">
+                                        <td>@item.NomeEmpresa</td>
+                                        <td>@item.EnderecoEmpresa</td>
+                                        <td>@item.TelefoneEmpresa</td>
+                                        <td>
+                                            <a href="/Empresa/Alterar?cod_empresa=@item.CodigoEmpresa" class="btn btn-block btn-warning btn-xs">Alterar</a>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+
+
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+        </div>
+        <!--End Advanced Tables -->
+    </div>
+</div>
+<!-- /. ROW  -->

@@ -1,0 +1,23 @@
+﻿@if (ViewBag.ret != null)
+{
+    if (ViewBag.ret == -1)
+    {
+        <div class="alert alert-danger">
+            Ocorreu um erro na operação!
+        </div>
+    }
+    else if (ViewBag.ret == 0)
+    {
+        <div class="alert alert-warning">
+            Preencher campos obrigatórios!
+        </div>
+    }
+    else if (ViewBag.ret == 1)
+    {
+        <div class="alert alert-success">
+            Dados gravados com sucesso!
+        </div>
+    }
+
+}
+

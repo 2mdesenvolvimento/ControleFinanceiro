@@ -1,0 +1,6 @@
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\VO\bin\Debug\VO.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\VO\bin\Debug\VO.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\VO\obj\Debug\VO.csproj.CoreCompileInputs.cache
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\VO\obj\Debug\VO.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\VO\obj\Debug\VO.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\VO\obj\Debug\VO.csprojAssemblyReference.cache

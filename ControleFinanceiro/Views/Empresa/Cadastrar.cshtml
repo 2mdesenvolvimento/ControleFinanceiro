@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+@using (Html.BeginForm("Gravar", "Empresa", FormMethod.Post))
+{
+    <div class="form-group">
+        <label>Nome da Empresa</label>
+        <input class="form-control" placeholder="Digite aqui..." name="nome_empresa" />
+    </div>
+    <div class="form-group">
+        <label>Endereço</label>
+        <input class="form-control" placeholder="Digite aqui..." name="endereco_empresa" />
+    </div>
+    <div class="form-group">
+        <label>Telefone</label>
+        <input class="form-control" placeholder="Digite aqui..." name="telefone_empresa" />
+    </div>
+    <button type="submit" class="btn btn-success">Salvar</button>
+}
+

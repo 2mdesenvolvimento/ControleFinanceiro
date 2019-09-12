@@ -1,0 +1,17 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+@using (Html.BeginForm("Gravar", "Categoria", FormMethod.Post))
+{
+    <input type="hidden" name="cod" value="@ViewBag.codigo"/>
+    <div class="form-group">
+        <label>Nome da Categoria</label>
+        <input class="form-control" placeholder="Digite aqui..." name="nome_categoria" value="@ViewBag.nome_categoria" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+
+}
+

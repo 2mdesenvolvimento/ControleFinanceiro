@@ -1,0 +1,11 @@
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\bin\Debug\DAO.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\bin\Debug\DAO.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\bin\Debug\VO.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\bin\Debug\VO.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\obj\Debug\DAO.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\obj\Debug\DAO.pdb
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\bin\Debug\MySql.Data.dll
+D:\Estudo de Programação Microsoft C#\Curso C# ASP.NET com Procedure\ControleFinanceiro\DAO\bin\Debug\MySql.Data.xml
